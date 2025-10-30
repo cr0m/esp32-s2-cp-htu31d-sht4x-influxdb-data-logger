@@ -1,6 +1,6 @@
 # Wi-Fi Room Sensor Display (CircuitPython)
 
-A compact Wi-Fi temperature & humidity display built with **CircuitPython**.  
+I put these together to replace my super cheap pi zero W's I ocumulated over the years from Microcenter for ~$5 a unit. Which turned into an even better compact cheap Wi-Fi temperature & humidity display built with **CircuitPython**.  
 Displays live readings, fetches time from the web, and can send data to **InfluxDB**.
 
 ![screenshot placeholder](https://github.com/cr0m/esp32-s2-cp-htu31d-sht4x-influxdb-data-logger/blob/main/image.jpg)
